@@ -1,0 +1,13 @@
+User-agent: *
+# Rules for the Carteira landing page
+Disallow: /carteira/en/
+Disallow: /carteira/nl/
+Disallow: /carteira/pt/
+Disallow: /carteira/uk/
+Disallow: /carteira/LICENSE
+Disallow: /carteira/README.md
+
+Allow: /carteira/index.html
+
+Crawl-delay:20
+Sitemap: https://88-studio.github.io/carteira/index.html
