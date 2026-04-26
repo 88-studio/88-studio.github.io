@@ -10,4 +10,3 @@ Disallow: /carteira/README.md
 Allow: /carteira/index.html
 
 Crawl-delay:20
-Sitemap: https://88-studio.github.io/carteira/index.html
